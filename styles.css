@@ -1,0 +1,78 @@
+body {
+    background-color: antiquewhite;
+    text-align: center
+}
+
+ul {
+    list-style-type: none;
+}
+
+#m1 {
+    background-color: rgb(9, 197, 9);
+    width: 30%;
+    height: 50px;
+    margin: auto;
+}
+
+#m2 {
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+    height: 50px;
+    margin: auto;
+}
+
+#m3 {
+    background-color: rgb(255, 0, 0);
+    width: 30%;
+    height: 50px;
+    margin: auto;
+}
+
+#a1 {
+    background-color: rgb(255, 0, 0);
+    width: 200px;
+    height: 50px;
+    margin: auto;
+}
+
+#a2 {
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 50px;
+    margin: auto;
+}
+
+#i1 {
+    background-color: rgb(9, 197, 9);
+    width: 30%;
+    height: 50px;
+    margin: auto;
+}
+
+#i2 {
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+    height: 50px;
+    margin: auto;
+}
+
+#i3 {
+    background-color: rgb(255, 0, 0);
+    width: 30%;
+    height: 50px;
+    margin: auto;
+}
+
+.box-float {
+    float: left;
+    text-align: center;
+}
+
+.after-box {
+    clear: left;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+}
